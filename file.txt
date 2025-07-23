@@ -1,0 +1,32 @@
+virtual-art-gallery/
+│
+├── public/
+│   └── modern-art/                  # Store your modern art images here
+│       └── art1.jpg
+│       └── art2.jpg
+│
+├── src/
+│   ├── assets/
+│   │   └── logo.png                 # (Optional) logo or decorative images
+│   │   └── music.mp3                # (Optional) background music
+│   │
+│   ├── components/
+│   │   ├── Navbar.jsx               # Top navbar
+│   │   ├── Gallery.jsx              # Main artwork grid
+│   │   ├── ArtworkCard.jsx          # Individual art display
+│   │   ├── PopupModal.jsx           # Zoomed-in modal with info
+│   │
+│   ├── data/
+│   │   └── artworks.js              # Array of artwork objects (id, title, image, etc.)
+│   │
+│   ├── styles/
+│   │   └── App.css
+│   │   └── gallery.css
+│   │   └── modal.css
+│   │
+│   ├── App.jsx                      # Main app file
+│   ├── main.jsx                     # React entry point
+│
+├── index.html
+├── package.json
+└── vite.config.js

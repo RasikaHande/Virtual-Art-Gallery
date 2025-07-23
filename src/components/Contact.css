@@ -1,0 +1,37 @@
+.contact-section {
+  padding: 60px 32px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #1f2937;
+  font-weight: 700;
+}
+
+.contact-section p {
+  font-size: 1rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.contact-details {
+  margin-top: 24px;
+}
+
+.contact-details p {
+  margin: 12px 0;
+}
+
+.contact-details a {
+  color: #3b82f6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-details a:hover {
+  color: #2563eb;
+  text-decoration: underline;
+}
