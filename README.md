@@ -24,7 +24,7 @@ An interactive and fully responsive **Virtual Art Gallery** web application buil
   `VS Code`, `npm`, `React Developer Tools`
 
 - **Deployment:**  
-  GitHub Pages / Netlify *(choose one based on your deployment)*
+  GitHub Pages / Netlify 
 
 ---
 
